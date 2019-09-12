@@ -1,0 +1,7 @@
+[[dependency]]
+package = "github.com/njlr/bazel-test-a"
+version = "*"
+
+[[dependency]]
+package = "github.com/njlr/bazel-test-b"
+version = "*"
